@@ -1,0 +1,19 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.ListedAsgn" parent="Theme.AppCompat.Light.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        
+    </style>
+
+
+    <style name="Theme.ListedAsgn" parent="Base.Theme.ListedAsgn" />
+
+    <style name="Theme.Fab_Bottom_app_bar" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">#0F9D58</item>
+        <item name="colorPrimaryVariant">#0F9D58</item>
+        <item name="colorOnPrimary">#000</item>
+        <item name="android:fontFamily">@font/figtree_regular</item>
+    </style>
+
+</resources>
