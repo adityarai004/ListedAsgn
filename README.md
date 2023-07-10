@@ -30,11 +30,20 @@ The chart in the application is implemented using the MPAndroidChart library. It
 
 ## Screenshots
 ![Listed SS](https://github.com/adityarai004/ListedAsgn/assets/86659578/ff5776e2-fbe6-41a7-85b3-be122592c8ba)
+
+
 ![Listed SS2](https://github.com/adityarai004/ListedAsgn/assets/86659578/4688110e-a90a-427c-9b7a-b314bd5e3229)
+
 Here the top links are clickable, it will redirect to the link mentioned and we can copy the link too.
+
+
 ![Listed SS3](https://github.com/adityarai004/ListedAsgn/assets/86659578/26b6196b-51e4-4c58-b32e-7a1ad936a37f)
+
 Here the recent links are clickable, it will redirect to the link mentioned and we can copy the link too.
+
+
 ![Listed SS4](https://github.com/adityarai004/ListedAsgn/assets/86659578/96a37c9c-787e-460b-bc27-99969cc2d4f5)
+
 The talk with us button redirects to the whatsapp number char of support team.
 
 ## Future Enhancements
