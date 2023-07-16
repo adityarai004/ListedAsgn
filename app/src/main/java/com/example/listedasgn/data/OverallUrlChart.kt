@@ -1,4 +1,4 @@
-package com.example.listedasgn
+package com.example.listedasgn.data
 
 data class OverallUrlChart(
     val `2023-06-07`: Int,

@@ -1,13 +1,14 @@
-package com.example.listedasgn
+package com.example.listedasgn.ui
 
 import androidx.appcompat.app.AppCompatActivity
 import android.os.Bundle
 import androidx.fragment.app.Fragment
+import com.example.listedasgn.R
 import com.example.listedasgn.databinding.ActivityMainBinding
-import com.example.listedasgn.fragments.CampaignFragment
-import com.example.listedasgn.fragments.CoursesFragment
-import com.example.listedasgn.fragments.LinksFragment
-import com.example.listedasgn.fragments.ProfileFragment
+import com.example.listedasgn.ui.fragments.CampaignFragment
+import com.example.listedasgn.ui.fragments.CoursesFragment
+import com.example.listedasgn.ui.fragments.LinksFragment
+import com.example.listedasgn.ui.fragments.ProfileFragment
 
 class MainActivity : AppCompatActivity() {
 

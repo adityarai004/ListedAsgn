@@ -1,4 +1,4 @@
-package com.example.listedasgn
+package com.example.listedasgn.factory
 
 import androidx.lifecycle.ViewModel
 import androidx.lifecycle.ViewModelProvider

@@ -1,4 +1,6 @@
-package com.example.listedasgn
+package com.example.listedasgn.data
+
+import com.example.listedasgn.data.Data
 
 data class Result(
     val applied_campaign: Int,

@@ -1,4 +1,4 @@
-package com.example.listedasgn.fragments
+package com.example.listedasgn.ui.fragments
 
 import android.content.Intent
 import android.graphics.Color
@@ -20,11 +20,11 @@ import androidx.lifecycle.ViewModelProvider
 import androidx.recyclerview.widget.LinearLayoutManager
 import androidx.recyclerview.widget.RecyclerView
 import com.example.listedasgn.R
-import com.example.listedasgn.ViewModelFactory
-import com.example.listedasgn.listview.InstantAdapter
-import com.example.listedasgn.listview.InstantViewModel
-import com.example.listedasgn.listview.LinkAdapter
-import com.example.listedasgn.listview.LinkViewModel
+import com.example.listedasgn.factory.ViewModelFactory
+import com.example.listedasgn.ui.fragments.adapters.InstantAdapter
+import com.example.listedasgn.ui.fragments.adapters.InstantViewModel
+import com.example.listedasgn.ui.fragments.adapters.LinkAdapter
+import com.example.listedasgn.ui.fragments.adapters.LinkViewModel
 import com.example.listedasgn.network.RetroService
 import com.example.listedasgn.repository.DataRepository
 import com.example.listedasgn.viewmodel.MainActivityViewModel

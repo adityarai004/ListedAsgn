@@ -1,4 +1,4 @@
-package com.example.listedasgn.listview
+package com.example.listedasgn.ui.fragments.adapters
 
 import android.content.Context
 import android.view.LayoutInflater

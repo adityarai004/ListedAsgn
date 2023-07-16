@@ -1,4 +1,4 @@
-package com.example.listedasgn.fragments
+package com.example.listedasgn.ui.fragments
 
 import android.os.Bundle
 import android.view.LayoutInflater

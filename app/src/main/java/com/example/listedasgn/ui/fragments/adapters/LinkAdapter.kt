@@ -1,4 +1,4 @@
-package com.example.listedasgn.listview
+package com.example.listedasgn.ui.fragments.adapters
 
 import android.content.ClipData
 import android.content.ClipboardManager
@@ -10,13 +10,11 @@ import android.os.Build
 import android.view.LayoutInflater
 import android.view.View
 import android.view.ViewGroup
-import android.widget.Button
 import android.widget.ImageButton
 import android.widget.ImageView
 import android.widget.TextView
 import android.widget.Toast
 import androidx.annotation.RequiresApi
-import androidx.core.content.ContextCompat.getSystemService
 import androidx.recyclerview.widget.RecyclerView
 import com.example.listedasgn.R
 import java.time.format.DateTimeFormatter

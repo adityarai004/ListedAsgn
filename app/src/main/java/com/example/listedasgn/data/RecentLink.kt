@@ -1,4 +1,4 @@
-package com.example.listedasgn
+package com.example.listedasgn.data
 
 data class RecentLink(
     val app: String,

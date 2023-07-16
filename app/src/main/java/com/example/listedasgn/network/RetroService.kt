@@ -1,6 +1,6 @@
 package com.example.listedasgn.network
 
-import com.example.listedasgn.Result
+import com.example.listedasgn.data.Result
 import okhttp3.OkHttpClient
 import okhttp3.logging.HttpLoggingInterceptor
 import retrofit2.Call
